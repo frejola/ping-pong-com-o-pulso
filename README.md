@@ -16,7 +16,7 @@
 ## Image
 
 ![Preview]
-(print jogo - github.PNG )
+(print jogo - github.PNG/)
 "This is a preview image."
 
 ## Links
