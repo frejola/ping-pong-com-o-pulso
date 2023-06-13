@@ -15,7 +15,7 @@
 
 ## Image
 
-![Preview](/print jogo - github.PNG)"This is a preview image."
+![Preview](/printJogoGithub.PNG)"This is a preview image."
 
 ## Links
 
