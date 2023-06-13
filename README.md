@@ -21,6 +21,6 @@
 
 ## Links
 
-(frejola.github.io/ping-pong-com-o-pulso/)
+(https://frejola.github.io/ping-pong-com-o-pulso/)
 
 
